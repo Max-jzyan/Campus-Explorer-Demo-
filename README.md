@@ -1,5 +1,5 @@
 # Campus Explorer Demo
-This is a repo for demonstrating how the project Campus Explorer works. This source code is not allowed to be published due to policy issue.
+This is a repo for demonstrating key components of project Campus Explorer. The source code is not allowed to be published due to policy issue.
 ## Tech stacks
 Typescript/Javascript, AngularJS, NodeJS, ExpressJS, Mocha, Chai, JSZip, REST API.
 ## Functionalities
